@@ -146,7 +146,7 @@ smart-flag/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/smart-flag-app.git
+git clone https://github.com/riya-parekh-123/smart-flag-app.git
 ```
 
 2. **Train and Save Best Fit Models:**
